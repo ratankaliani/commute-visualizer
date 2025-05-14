@@ -17,7 +17,7 @@ wheels/
 */.ipynb_checkpoints/*
 
 # Cache directories
-.cache/
+cache/
 .pytest_cache/
 .coverage
 htmlcov/
