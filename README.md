@@ -19,6 +19,21 @@ So, I wanted to spend the least amount of time to generate the visualization her
 2. Start the Jupyter Notebook server with `uv run --with jupyter jupyter lab`.
 3. Run the notebook.
 
+### Starting Jupyter Notebook in Cursor / VSCode
+
+```bash
+# Create a new virtual environment
+uv venv
+
+# Activate the virtual environment
+source .venv/bin/activate
+
+# Sync the dependencies
+uv sync
+
+# Select Kernel -> Use newly created venv
+```
+
 ## Example Output
 
 ![SF to Gateway Hall](./assets/sf_gateway_travel_time.png)
