@@ -10,7 +10,7 @@ So, I wanted to spend the least amount of time to generate the visualization her
 
 ## Prerequisites
 
-1. `uv`
+1. [uv](https://docs.astral.sh/uv/)
 2. Sign up for a Google Developers Console Account.
 
 ## Setup
