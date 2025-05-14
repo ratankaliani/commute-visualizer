@@ -31,7 +31,7 @@ source .venv/bin/activate
 # Sync the dependencies
 uv sync
 
-# Select Kernel -> Use newly created venv
+# Open Notebook -> Select Kernel -> Use newly created venv
 ```
 
 ## Example Output
