@@ -21,4 +21,4 @@ So, I wanted to spend the least amount of time to generate the visualization her
 
 ## Example Output
 
-![SF to Gateway Hall](./sf_gateway_travel_time.png)
+![SF to Gateway Hall](./assets/sf_gateway_travel_time.png)
