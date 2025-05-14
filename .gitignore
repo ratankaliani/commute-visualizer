@@ -11,3 +11,13 @@ wheels/
 
 # Environment variables
 .env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Cache directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
