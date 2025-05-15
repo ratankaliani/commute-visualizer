@@ -37,3 +37,7 @@ uv sync
 ## Example Output
 
 ![SF to Gateway Hall](./assets/sf_gateway_travel_time.png)
+
+## Notes
+
+- Google Maps Distance Matrix API is pricey! Each "entry" is ~$0.005 ($5/1K requests), and SF has (~10^3 - ~10^4 street intersections)[https://chatgpt.com/share/68253965-0ef8-800f-b7b7-730c97ee97c8], which means each run is $50.
